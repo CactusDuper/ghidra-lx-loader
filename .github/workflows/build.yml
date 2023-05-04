@@ -1,5 +1,6 @@
 name: Build ghidra-lx-loader
 on:
+  workflow_dispatch:
   pull_request:
   push:
 
